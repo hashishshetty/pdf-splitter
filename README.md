@@ -1,5 +1,7 @@
 # pdf-splitter
 A Python tool to extract pages from a PDF file.
+
+`pip install -r dependencies.txt`
 \
 \
 \
