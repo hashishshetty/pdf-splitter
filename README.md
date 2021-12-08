@@ -3,12 +3,12 @@ A Python tool to extract pages from a PDF file.
 \
 \
 \
-![ui](https://user-images.githubusercontent.com/53960370/145217298-31dbd29b-03be-4aa9-b404-74b95e90ebc1.jpg)
+![ui](https://github.com/hashishshetty/pdf-splitter/blob/main/screenshots/ui.jpg)
 \
 \
 \
-![ui-pdf-error](https://user-images.githubusercontent.com/53960370/145217302-4c5c9948-e8bf-415a-9986-65986ef7a473.jpg)
+![ui_pdf_error](https://github.com/hashishshetty/pdf-splitter/blob/main/screenshots/ui_pdf_error.jpg)
 \
 \
 \
-![ui-page-error](https://user-images.githubusercontent.com/53960370/145217300-c5df379f-15da-45c7-9b1f-0e28706486d4.jpg)
+![ui_page_error](https://github.com/hashishshetty/pdf-splitter/blob/main/screenshots/ui_page_error.jpg)
